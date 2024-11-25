@@ -1,0 +1,53 @@
+Apa Itu tipe data?
+tipe data adalah klasifikasi value suatu variabel yang membantu operasi komputer
+untuk mengenali nilai data tanpa menghasilkan output error.
+
+type data terbagi menjadi 2 ada tipe data primitive dan tipe datacomposite
+-macam-macam tipe data primitive
+  ->1 Integer
+    Integer atau bilangan bulat adalah tipe data primitif yang digunakan untuk angka tanpa pecahan. Artinya, tipe data ini tidak memiliki pecahan desimal. Bilangan bulat bisa berupa negatif atau positif.
+    Contoh: 46, 2, -202, 9857, -67.
+
+    Umumnya, bahasa pemrograman memiliki batasan (limit) angka minimal dan maksimal yang direpresentasikan sebagai bilangan bulat.
+    Misalnya, Java menetapkan ukuran bilangan bulat antara -2.147.483.648 dan 2.147.483.647.
+
+  ->2 Floating Point
+    Floating point adalah tipe data numerik yang menyatakan angka dengan nominal pecahan. Contohnya: 98.5, 0.078, 9.35.
+
+  ->3 Character
+    Character adalah tipe data yang digunakan untuk menyatakan satu angka, huruf, atau special character.
+    Contohnya: %, 5, q, @
+
+  ->4 String
+    String adalah tipe data yang menyatakan rangkaian character, angka, atau simbol–dan selalu diperlakukan sebagai teks. Karena itu, meski dalam keadaan berbentuk numerik sekalipun, tipe data string tidak bisa dipakai untuk operasi perhitungan matematis.
+    Contohnya: “Halo, John Mayer!”, “087912345609”, “Lorem Ipsum Dolor Sit Amet”
+
+  ->5 Boolean
+    Boolean adalah tipe data yang menyatakan true (benar) atau false (salah). 
+    Contoh: Di Python, tipe data boolean punya memiliki nilai numerik 1 (untuk benar) atau 0 (untuk salah).
+
+-macam-macam tipe data composite
+  ->1 Array
+    Array dikenal juga dengan list. Array adalah tipe data yang menyatakan kumpulan dari beberapa elemen dalam urutan tertentu. Elemen dalam array memiliki jenis dan nilai sama.
+
+    Contoh array dalam baris atau kolom yang sama: melati, mawar, anggrek, lavender, kamboja.
+
+  ->2 Object
+    Object adalah kumpulan data yang biasanya berbentuk function, struktur, variabel, atau kelas. Object digunakan saat ingin menyimpan lebih dari satu nilai untuk satu variabel.
+
+    Contoh: dalam satu form submission pengunjung website ada beberapa informasi, yaitu nama depan, nama belakang, usia, dan tanggal lahir.
+
+
+    Apa itu PHP Framework
+PHP framework adalah platform yang digunakan sebagai kerangka kerja untuk membangun aplikasi web berbasis PHP.
+ PHP framework berisi kumpulan library dari kode yang sering digunakan, yang bisa membantu para developer 
+ untuk dapat membuat aplikasi web lebih cepat.
+
+PHP framework memberikan kerangka dasar dalam membuat aplikasi web berbasis PHP.
+ Framework bekerja untuk menstandarisasi dan mempercepat proses pengembangan, serta mengurangi kesalahan,
+  dan keraguan dalam membangun aplikasi.
+
+  Apa itu Laravel
+  Laravel merupakan framework PHP yang open-source dan berisi banyak modul dasar untuk mengoptimalkan kinerja PHP dalam pengembangan aplikasi web, 
+  apalagi PHP adalah bahasa pemrograman yang dinamis dan Laravel disini bisa bertindak untuk membuat web development lebih cepat, 
+  lebih aman, dan lebih simpel.
