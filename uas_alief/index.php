@@ -239,7 +239,7 @@
                     <tr>
                         <th>Gaji Bersih</th>
                         <td>:</td>
-                        <td>Rp -<?php echo number_format($gaji_bersih2, 0, ',', '.'); ?></td>
+                        <td>Rp <?php echo number_format($gaji_bersih2, 0, ',', '.'); ?></td>
                     </tr>
             </table>
             </center>
