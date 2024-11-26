@@ -15,7 +15,7 @@
 <body>
     <div class="container mt-4">
         <div class="text-center mb-4">
-            <img src="logo assalaam.png"alt="Logo" class="img-fluid" style="max-width: 200px;">
+            <img src="logo assalaam.png"alt="Logo" class="img-fluid" style="max-width: 300px;">
             <h2 class="mt-3">PENGGAJIHAN<br>GURU/KARYAWAN YAYASAN ASSALAAM</h2>
         </div>
         <div class="card shadow">
